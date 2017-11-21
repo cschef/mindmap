@@ -10,6 +10,11 @@
 - [算法设计与分析](./computer-science/algorithm-design-and-analysis/)
 - [操作系统]()
 
-# 其他
+## 其他
 
 - [大学体育教程](./others/college-sports-curriculum/)
+
+## License
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br/>
+This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
