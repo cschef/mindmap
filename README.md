@@ -2,7 +2,8 @@
 
 ## 程序设计语言
 
-- [C#](./csharp/)
+- [C#](./program-language/csharp/)
+- [Python](./program-language/python/)
 
 ## 大学计算机课程
 
@@ -11,4 +12,4 @@
 
 # 其他
 
-- [大学体育]()
+- [大学体育教程](./others/college-sports-curriculum/)
