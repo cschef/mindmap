@@ -7,7 +7,7 @@
 
 ## 大学计算机课程
 
-- [算法设计与分析]()
+- [算法设计与分析](./computer science/algorithm-design-and-analysis/)
 - [操作系统]()
 
 # 其他

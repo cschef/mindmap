@@ -1,3 +1,3 @@
-# 大学体育教程
+# 大学体育教程 - 思维导图
 
-![](./college-sports-curriculum.png)
+![](./大学体育教程.png)
