@@ -4,6 +4,7 @@
 
 - [C#](./program-language/csharp/)
 - [Python](./program-language/python/)
+- [C++](./program-language/cplusplus/)
 
 ## 大学计算机课程
 
