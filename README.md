@@ -11,6 +11,7 @@
 
 - [算法设计与分析](./computer-science/algorithm-design-and-analysis/)
 - [操作系统](./computer-science/operating-system/)
+- [软件工程](./computer-science/software-engineering/)
 
 ## 其他
 
